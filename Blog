@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>DavidRobson's Blog</title>
+   <style>
+   body {
+     background-color: #ffffcc;
+   }
+   </style>
+ </head>
+ <body>
+   <div class=”container”>
+     <div class=”blurb”>
+       <h1>This is by blog ...!</h1>
+
+       <ul>
+       <li>
+          <h2>2022-02-06: My first post</h2>
+          <p>What do you think?</p>
+       </li>
+     </div>
+   </div>
+   <footer>
+   <ul>
+     <li><a href=”mailto:David-DOT-W-DOT-Robson-AT-gmail”>David-DOT-W-DOT-Robson-AT-gmail</a></li>
+   </ul>
+   </footer>
+ </body>
+</html>
